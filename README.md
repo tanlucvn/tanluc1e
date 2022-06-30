@@ -1,10 +1,10 @@
-<h3 title="hehehe"> Hey 👋, I'm Luke!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Luke and I'm newbie!</h3>
 
 <a href="https://www.instagram.com/34.luke/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1656607326~hmac=6b3f8bd34fda99b3ec6036a2b34ed9d6" />
+  <img align="left" alt="Luke's Instagram" width="24px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1656608431~hmac=d2c33f572e3940ff6085a71f16eac061" />
 </a>
 <a href="https://www.facebook.com/a123.1e">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
+  <img align="left" alt="Luke's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 
 
@@ -27,19 +27,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
 
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+**My Stats**  
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanluc1e&hide=contribs,prs&theme=radical" alt="Luke's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanluc1e&count_private=true&theme=radical" alt="Tanluc1e" />
