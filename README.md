@@ -29,6 +29,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **My Stats**  
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanluc1e&hide=contribs,prs&theme=radical" alt="Luke's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanluc1e&count_private=true&theme=radical" alt="Tanluc1e" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanluc1e&count_private=true&theme=radical" alt="Tanluc1e" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tanluc1e&hide=contribs,prs&theme=radical" alt="Luke's GitHub Stats">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanluc1e&count_private=true&theme=radical" alt="Tanluc1e" />
+<img align="right" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanluc1e&count_private=true&theme=radical" alt="Tanluc1e" />
