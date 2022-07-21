@@ -1,8 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Luke and I'm newbie!</h3>
 
-<a href="https://www.instagram.com/34.luke/">
-  <img align="left" alt="Luke's Instagram" width="24px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1657378340~hmac=e110e0c76e403cd211ef607c4274a247" />
-</a>
 <a href="https://www.facebook.com/a123.1e">
   <img align="left" alt="Luke's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
